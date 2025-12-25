@@ -1,0 +1,11 @@
+# English Assessment System v2.0
+# 必要なパッケージ
+
+streamlit>=1.28.0
+pandas>=2.0.0
+openai>=1.0.0
+azure-cognitiveservices-speech>=1.32.0
+pydub>=0.25.1
+requests>=2.31.0
+plotly>=5.18.0
+pyyaml>=6.0

@@ -1,0 +1,29 @@
+# 環境変数・機密情報
+.env
+*.env
+
+# データベース
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# 一時ファイル
+downloads/
+*.mp3
+*.wav
+*.m4a
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# ランチャー
+*.command
