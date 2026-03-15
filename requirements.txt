@@ -7,3 +7,5 @@ requests>=2.31.0
 python-dotenv>=1.0.0
 yt-dlp>=2023.10.13
 gdown>=4.7.1
+plotly>=5.15.0
+python-Levenshtein>=0.21.0
