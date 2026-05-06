@@ -441,7 +441,7 @@ def generate_feedback(transcription: str, target_text: str, scores: Dict,
     
     try:
         res = client.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-4.1",
             temperature=0.7,
             max_tokens=1000,
             messages=[
